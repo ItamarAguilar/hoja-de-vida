@@ -1,6 +1,6 @@
 <html>
 <head>
-<title># hoja-de-vida</title>
+<title> Hoja de vida</title>
 </head>
 <body>
 <br>
