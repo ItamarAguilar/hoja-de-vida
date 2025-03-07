@@ -1,4 +1,3 @@
-# hoja-de-vida
 <html>
 <head>
 <title># hoja-de-vida</title>
